@@ -3,7 +3,6 @@ package role02;
 /**
  * p.19 규칙 02 빌더패턴 고려하라
  * 빌더패턴!!
- * @author myeongju.jung
  */
 public class NutritionFacts3 {
     private final int servingSize;      // (mL)                 *Required
