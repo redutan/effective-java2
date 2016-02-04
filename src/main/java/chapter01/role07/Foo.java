@@ -1,4 +1,4 @@
-package role07;
+package chapter01.role07;
 
 /**
  * 종료 보호자 숙어 (Finalizer guardian idiom)

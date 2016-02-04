@@ -1,4 +1,4 @@
-package role04;
+package chapter01.role04;
 
 public class Utility {
     private Utility() {

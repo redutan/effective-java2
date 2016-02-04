@@ -1,4 +1,4 @@
-package role02;
+package chapter01.role02;
 
 /**
  * p.19 규칙 02 빌더패턴 고려하라

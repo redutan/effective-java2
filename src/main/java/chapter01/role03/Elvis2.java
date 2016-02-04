@@ -1,4 +1,4 @@
-package role03;
+package chapter01.role03;
 
 /**
  * 정적 팩터리를 이용한 싱글턴

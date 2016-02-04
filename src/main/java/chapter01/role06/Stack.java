@@ -1,4 +1,4 @@
-package role06;
+package chapter01.role06;
 
 import java.util.Arrays;
 import java.util.EmptyStackException;

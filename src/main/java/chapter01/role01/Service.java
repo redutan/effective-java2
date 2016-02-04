@@ -1,4 +1,4 @@
-package role01;
+package chapter01.role01;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
